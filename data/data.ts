@@ -128,7 +128,7 @@ export const footerListItems = [
   {
     id: 3,
     title: "Contact",
-    list: ["contact@doodlelabs.com", "(123) 456-789"],
+    list: ["contact@dentora.com", "(123) 456-789"],
   },
 ];
 
